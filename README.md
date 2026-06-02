@@ -35,8 +35,6 @@ Sentiment labels include:
 * Sad
 * Melancholic
 
-Two classification settings were examined:
-
 ### Binary Classification
 
 * Positive (Happy)
