@@ -161,18 +161,3 @@ docs/Final_Project_Report.pdf
 ```
 
 ---
-
-## Author
-
-**Yunxuan (Ariel) Hu**
-
-M.S. Business Analytics
-University of Arizona
-
-Research Interests:
-
-* Artificial Intelligence
-* Deep Learning
-* Consumer Behavior
-* Marketing Analytics
-* Social Media Analytics
