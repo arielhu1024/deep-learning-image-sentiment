@@ -74,13 +74,6 @@ Predicted image sentiment scores were incorporated into downstream engagement pr
 ├── docs/
 │   └── Final_Project_Report.pdf
 │
-├── figures/
-│   ├── study_design.png
-│   ├── alexnet_binary_confusion_matrix.png
-│   ├── resnet_binary_confusion_matrix.png
-│   ├── alexnet_multiclass_confusion_matrix.png
-│   └── resnet_multiclass_confusion_matrix.png
-│
 ├── notebooks/
 │   ├── 01_data_preprocessing.ipynb
 │   ├── 02_alexnet_binary_classification.ipynb
@@ -90,10 +83,14 @@ Predicted image sentiment scores were incorporated into downstream engagement pr
 │   ├── 06_engagement_analysis.ipynb
 │   └── README.md
 │
+├── presentation/
+│   └── Transfer Learning for Image Sentiment Classification.pdf
+│
 ├── results/
 │   ├── binary_classification_results.csv
 │   ├── multiclass_classification_results.csv
-│   ├── engagement_regression_results.csv
+│   ├── model_performance_summary.csv
+│   ├── engagement_analysis_results.csv
 │   └── README.md
 │
 └── README.md
