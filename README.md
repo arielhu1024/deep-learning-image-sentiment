@@ -28,15 +28,6 @@ The resulting sentiment predictions are further incorporated into an engagement 
 
 The study uses an image sentiment dataset derived from publicly available social media image collections.
 
-Sentiment labels include:
-
-* Happy
-* Angry
-* Sad
-* Melancholic
-
-Two classification settings were examined:
-
 ### Binary Classification
 
 * Positive (Happy)
@@ -63,13 +54,6 @@ The original dataset is not redistributed through this repository.
 * Class balancing
 
 ### Deep Learning Models
-
-#### Binary Classification
-
-* AlexNet
-* ResNet50 Transfer Learning
-
-#### Multi-Class Classification
 
 * AlexNet
 * ResNet50 Transfer Learning
