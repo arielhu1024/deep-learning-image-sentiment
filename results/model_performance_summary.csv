@@ -1,0 +1,6 @@
+Study,Model,Task,Accuracy,Macro_F1,Key_Finding
+Study 1,AlexNet,Binary,89.71%,0.87,Best overall performance; broad emotions were highly learnable
+Study 1,ResNet50,Binary,85.51%,0.80,Strong performance but slightly below AlexNet
+Study 2,AlexNet,Multi-class,63.97%,0.64,Negative emotions frequently overlapped
+Study 2,ResNet50,Multi-class,68.84%,0.68,Best multi-class performance
+Study 2,ResNet50+CBAM,Multi-class,61.59%,0.61,Attention mechanism increased complexity but did not improve performance

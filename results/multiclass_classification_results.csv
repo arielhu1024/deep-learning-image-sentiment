@@ -1,0 +1,13 @@
+Model,Emotion,Precision,Recall,F1,Support
+AlexNet,Happy,0.69,0.69,0.69,36
+AlexNet,Angry,0.60,0.58,0.59,36
+AlexNet,Melancholic,0.62,0.75,0.68,28
+AlexNet,Sad,0.65,0.56,0.60,36
+AlexNet,Macro Avg,0.64,0.65,0.64,136
+AlexNet,Weighted Avg,0.64,0.64,0.64,136
+ResNet50,Happy,0.76,0.86,0.81,37
+ResNet50,Angry,0.65,0.61,0.63,36
+ResNet50,Melancholic,0.74,0.59,0.65,29
+ResNet50,Sad,0.62,0.67,0.64,36
+ResNet50,Macro Avg,0.69,0.68,0.68,136
+ResNet50,Weighted Avg,0.69,0.69,0.69,136

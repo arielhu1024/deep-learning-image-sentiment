@@ -1,0 +1,9 @@
+Model,Emotion,Precision,Recall,F1,Support
+AlexNet,Negative,0.92,0.94,0.93,100
+AlexNet,Positive,0.82,0.78,0.80,36
+AlexNet,Macro Avg,0.87,0.86,0.87,136
+AlexNet,Weighted Avg,0.90,0.90,0.90,136
+ResNet50,Negative,0.86,0.95,0.91,101
+ResNet50,Positive,0.81,0.59,0.69,37
+ResNet50,Macro Avg,0.84,0.77,0.80,138
+ResNet50,Weighted Avg,0.85,0.86,0.85,138

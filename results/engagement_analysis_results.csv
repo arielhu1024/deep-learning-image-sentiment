@@ -1,0 +1,7 @@
+Analysis_Setting,Model_Type,Target,Performance,Sentiment_Effect
+Full Dataset,OLS/Ridge/Lasso Regression,Log Likes,R2=0.44,Positive
+Full Dataset,OLS/Ridge/Lasso Regression,Log Comments,R2=0.43,Positive
+Image and Sidecar Posts,OLS/Ridge/Lasso Regression,Log Likes,R2=0.01,Positive coefficient=0.242
+Image and Sidecar Posts,OLS/Ridge/Lasso Regression,Log Comments,R2=0.03,Positive coefficient=0.196
+High vs Low Engagement,Random Forest,Above/Below Median Likes,Accuracy=66.01%,Feature importance approx 3%
+High vs Low Engagement,Random Forest,Above/Below Median Comments,Accuracy=63.16%,Feature importance approx 3.2%
