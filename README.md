@@ -62,14 +62,7 @@ The original dataset is not redistributed through this repository.
 
 ### Deep Learning Models
 
-#### Binary Classification
-
-* AlexNet
-* ResNet50 Transfer Learning
-
-#### Multi-Class Classification
-
-* AlexNet
+* AlexNet Transfer Learning
 * ResNet50 Transfer Learning
 
 ### Engagement Analysis
@@ -159,18 +152,3 @@ docs/Final_Project_Report.pdf
 ```
 
 ---
-
-## Author
-
-**Yunxuan (Ariel) Hu**
-
-M.S. Business Analytics
-University of Arizona
-
-Research Interests:
-
-* Artificial Intelligence
-* Deep Learning
-* Consumer Behavior
-* Marketing Analytics
-* Social Media Analytics
